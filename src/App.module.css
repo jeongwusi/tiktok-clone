@@ -8,15 +8,8 @@
 }
 
 .image {
-  width: 400px;
-  height: 624px;
-}
-
-@media screen and (max-width: 480px) {
-  .image {
-    width: 850px;
-    height: 1300px;
-  }
+  width: 700px;
+  height: 700px;
 }
 
 .button {
